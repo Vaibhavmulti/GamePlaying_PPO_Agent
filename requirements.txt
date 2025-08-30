@@ -1,0 +1,10 @@
+torch
+tensorboard
+wandb
+moviepy
+pygame
+stable_baselines3
+gymnasium
+gymnasium[atari]
+atari-py==0.2.5
+gymnasium[other]
